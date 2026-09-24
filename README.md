@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Jeff 👋
 
-<!--
-**Jefe614/Jefe614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer and tech lead in Nairobi, building scalable systems and fintech solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:** Python (Django, FastAPI) | **Frontend:** React | **Data:** PostgreSQL, Redis, Celery  
+**Infrastructure:** Docker, DigitalOcean | **ERP:** Frappe/ERPNext
+
+Leading a team of 5 developers at [VAP Technologies Ltd](https://vap-tech.com), specializing in enterprise applications and supply chain systems.
+
+## 📦 Notable Projects
+
+**[PesaFlow](https://github.com/Jefe614/pesaflow)** – Fintech mobile money wallet API with M-Pesa integration  
+**[AgroSky](https://github.com/Jefe614/agrosky)** – Weather intelligence platform for agricultural insights  
+**[Salthika SCM](https://salthika.vaptechapp.com)** – Supply chain management system built on ERPNext and Django
+
+## 💬 Let's Connect
+
+📧 [jeffkimani32@gmail.com](mailto:jeffkimani32@gmail.com) | 📱 +254 798 257728  
+🌐 [GitHub](https://github.com/Jefe614) | 📍 Nairobi, Kenya
+
+---
+
+*Interested in Python, full-stack architecture, open-source, and scaling systems for emerging markets.*
