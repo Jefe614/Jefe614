@@ -4,7 +4,7 @@ Full-stack developer based in Nairobi, building business-ready systems with a fo
 
 ## 💬 Let's Connect
 
-📧 [jeffkimani32@gmail.com](mailto:jeffkimani32@gmail.com) | 📱 +254 798 257728  
+📧 [jeffkimani32@gmail.com](mailto:jeffkimani32@gmail.com)
 🌐 [GitHub](https://github.com/Jefe614) | 📍 Nairobi, Kenya
 
 ---
